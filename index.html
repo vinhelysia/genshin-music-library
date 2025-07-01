@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genshin Impact Music Library</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎵 Genshin Impact Music Library</h1>
+            <p>Play beautiful melodies with Windsong Lyre and Lingering Euphonia</p>
+        </div>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label for="instrumentFilter">Instrument:</label>
+                <div class="custom-select">
+                    <button class="select-button">All Instruments</button>
+                    <ul class="select-options">
+                        <li data-value="">All Instruments</li>
+                        <li data-value="Windsong Lyre">Windsong Lyre</li>
+                        <li data-value="Lingering Euphonia">Lingering Euphonia</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <label for="searchInput">Search Songs:</label>
+                <input type="text" id="searchInput" placeholder="Enter song name...">
+            </div>
+        </div>
+
+        <div id="loading" class="loading">
+            🎵 Loading songs...
+        </div>
+
+        <div id="songsGrid" class="songs-grid">
+        </div>
+        <div id="notePopup" class="popup hidden">
+            <div class="popup-content">
+                <h2 id="popupTitle"></h2>
+                <div class="note-type-buttons">
+                    <button onclick="showNoteType('pc')">🖥️ PC Notes</button>
+                    <button onclick="showNoteType('mobile')">📱 Mobile Notes</button>
+                </div>
+                <div id="noteDisplay" class="note-text"></div>
+            </div>
+        </div>
+        <div id="noResults" class="no-results">
+            No songs found matching your criteria.
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "Senbozakura",
+      "instrument": "Windsong Lyre",
+      "difficulty": "Expert",
+      "preview": "The peaceful melody of Senbozakura, perfect for beginners.",
+      "audioPath": "audio/1.wav",
+      "midiPath": "midi/1.mid",
+      "notes": {
+        "pc": "B-N-M-A-CN---CN---CN-CN---CN---CN-AN---AN---AN-CN---AS---ADN---ADN---ADN-ADN---ADN---ADN-CN---AN---SM---DM---S-D-N-B-N-B-S-D-N-B-N-B-S-D-N-B-N-B-M-A-M-A-M-N-B-S-D-N-B-N-B-S-D-N-B-N-B-S-D-G-Q-J-Q-J-H-G-D-S-D-N-B-N-B-S-D-N-B-N-B-S-D-N-B-N-B-M-A-M-A-M-N-B-N-B-N-A-N-S-D-S-D-G-Q-D-G-QD-J-Q-J-H-DG-DH-G-DH-QG-SX-DC-N-B-N-B-SX-DC-N-B-N-B-SX-DC-N-B-N-B-C-N-M-A-M-A-M-N-B-SX-DC-N-B-N-B-SX-DC-N-B-N-B-A-SX-DC-GB-QA-JM-QA-JM-HN-GB-DC-SX-DC-N-B-N-B-SX-DC-N-B-N-B-SX-DC-N-B-N-B-C-N-M-A-M-A-M-N-B-SX-AZ-DC-GB-HN-GB-DC-SX-N-AZ-SX-DC-ADHC---ADHC---ADG-ADHN-------CN---CN---B-N-A-A-S-VN---VN---B-N-B-C-B-VN---CN---B-N-A-S-D-DVN---SVN-D-S-A---N---CN---N-CN---CB-B-C-N-A-S-VN---N-VN-B-N-B-B-C-CN---N-CN---CB-B-C-N-A-S-DVN---SVN-D-S-AB---BN---AV---VM---VN---VB---CB-CB-N-ZC-X-ZC---Z---ZC-B-VN---SB---BM---AC---NM-CB-CN---C---AV---VM---VN---VB---CB-CB-N-ZC-X-ZC---C-B-Z-X-V-N-XVN---XVN-AC---SVN---XCM---X-XC-----N-A-SCN---S---ADN-ADN-----D-SGBM-H-SBM-A-ADZB---N-A-SCN---S---ADN-ADN-----D-SFBM-D-SBM-A-AZB---N-A-SCN---S---ADN-ADN-----D-SGBM-H-SBM-A-ADB---N-A-AFN---ADN---SBM---ABM---S-D-M-B-ZCN---N-A-SCN---S---ADN-ADN-----D-SGBM-H-SBM-A-ADZB---N-A-SCN---S---ADN-ADN-----D-SFBM-D-SBM-A-AZB---N-A-SCN---S---ADN-ADN-----D-SGBM-H-SBM-A-ADB---N-A-AFN---ADN---SBM---ABM---S-A-D-G-ADH---ZC---SX-DC-N-B-N-B-SX-DC-N-B-N-B-SX-DC-N-B-N-B-C-N-M-AC-M-A-M-CN-B-SX-DC-N-B-N-B-SX-DC-N-B-N-B-A-SX-DC-GB-QA-JM-QA-JM-HN-GB-DC-SX-DC-N-B-N-B-SX-DC-N-B-N-B-SX-DC-N-B-N-B-C-N-M-AC-M-A-M-CN-B-SX-AZ-DC-GB-HN-GB-DC-SX-N-AZ-SX-DC-ADHC---ADHC---ADG-ADHN",
+        "mobile": ""
+      }
+    }
+  ]
+}
