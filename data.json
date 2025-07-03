@@ -32,8 +32,8 @@
       "instrument": "Windsong Lyre",
       "difficulty": "Normal",
       "preview": "",  
-      "audioPath": "audio/2.mp3",
-      "midiPath": "midi/2.mid",
+      "audioPath": "audio/3.mp3",
+      "midiPath": "midi/3.mid",
       "notes": {
         "pc":"V-E-QD-H-EN-WM-C-W-SJ-G-WN-QA-X-HV-JM-Q-TB-M-RS-RZ-C-EB-WSDG-Q-A-V-EN-QD-H-EB-M-WS-C-WB-SJ-G-WN-C-QA-X-HV-AJ-Q-TB-RS-FH-J-FJZ-B-S-QDZB-----V-EN-QZ-HN-EB-M-WB-X-Z-WB-DJ-GB-WC-M-QA-N-X-H-JV-QZ-TB-V-RXM-RA-ECBM-WM-QBN-V-EN-QAD-AH-ESBM-M-WB-C-WB-JM-G-WN-C-QA-B-FX-HN-J-QA-TB-RX-HV-JM-FJBM-----QDZCB-----SM-YM-RSM-WS-YAD-Z-TAD-F-M-G-AN-TN-EAN-QAD-TSBN-RSN-DX-XB-WB-EZB-RZ-QYAB-TAGV-EYADHV-V-ADN-A-N-SVN-DVN-B-YHVN-RFX-WSV-YHCB-TADGB-C-TaAGC-EDB-QA-TG-RFVN-B-WS-EDXV-RF-Q-YH-WSB-ED-RSFV-SV-B-HVN",
         "mobile":"pha3-mi1-do1mi2-la2-mi1la3-re1si3-mi3-re1-re2si2-son2-re1la3-do1do2-re3-la2pha3-si2si3-do1-son1son3-si3-pha1re2-pha1do3-mi3-mi1son3-re1re2mi2son2-do1-do2-pha3-mi1la3-do1mi2-la2-mi1son3-si3-re1re2-mi3-re1son3-re2si2-son2-re1la3-mi3-do1do2-re3-la2pha3-do2si2-do1-son1son3-pha1re2-pha2la2-si2-pha2si2do3-son3-re2-do1mi2do3son3-----pha3-mi1la3-do1do3-la2la3-mi1son3-si3-re1son3-re3-do3-re1son3-mi2si2-son2son3-re1mi3-si3-do1do2-la3-re3-la2-si2pha3-do1do3-son1son3-pha3-pha1re3si3-pha1do2-mi1mi3son3si3-re1si3-do1son3la3-pha3-mi1la3-do1do2mi2-do2la2-mi1re2son3si3-si3-re1son3-mi3-re1son3-si2si3-son2-re1la3-mi3-do1do2-son3-pha2re3-la2la3-si2-do1do2-son1son3-pha1re3-la2pha3-si2si3-pha2si2son3si3-----do1mi2do3mi3son3-----re2si3-la1si3-pha1re2si3-re1re2-la1do2mi2-do3-son1do2mi2-pha2-si3-son2-do2la3-son1la3-mi1do2la3-do1do2mi2-son1re2son3la3-pha1re2la3-mi2re3-re3son3-re1son3-mi1do3son3-pha1do3-do1la1do2son3-son1do2son2pha3-mi1la1do2mi2la2pha3-pha3-do2mi2la3-do2-la3-re2pha3la3-mi2pha3la3-son3-la1la2pha3la3-pha1pha2re3-re1re2pha3-la1la2mi3son3-son1do2mi2son2son3-mi3-son1do2son2mi3-mi1mi2son3-do1do2-son1son2-pha1pha2pha3la3-son3-re1re2-mi1mi2re3pha3-pha1pha2-do1-la1la2-re1re2son3-mi1mi2-pha1re2pha2pha3-re2pha3-son3-la2pha3la3"
